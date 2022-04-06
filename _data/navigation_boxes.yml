@@ -1,0 +1,16 @@
+# Boxes include navigation
+
+- title: Getting Started
+  desc: How to use SecurityKg
+  icon: file-text
+  url: "/docs/installation"
+
+- title: Contribute
+  desc: Check out the open projects!
+  icon: github
+  url: "https://github.com/security-kg"
+
+#- title: Customization
+#  desc: Get help or tailor the theme to your specific requirements
+#  icon: code
+#  doc: customize
